@@ -1,34 +1,54 @@
 #Data Science Vocabulary List
 
-##Statistical Terms
-- bias
-- classification
-- confidence intervals
-- confusion matrix
-- correlation
-- decision trees
-- dimensionality reduction
-- histogram
-- linear regression
-- linearity assumption
-- loss function
-- mean
-- median
-- mode
-- odds / odds ratios
-- p-value
-- quartile
-- random forest
-- regularization
-- scatter plot
-- sigmoid function
-- standard deviation
-- summary statistics
-- variance
-- visualization
+##Unit 1
+- Box plots
+- Confidence intervals
+- Correlation
+- Historgrams
+- Line graph
+- Mean
+- Median
+- Mode
+- NumPy
+- P-values
+- Pandas
+- Quartile
+- Range
+- Scatter matrix
+- Scatter plots
+- Standard deviation
+- Variance
+- Visualization
 
-##Acronyms
-- AOC (area over the curve)
-- KNN (k-nearest neighbor)
-- NLP (natural language processing)
-- ROC (receiver operating characteristic)
+##Unit 2
+- AOC - Area over the curve
+- Bias
+- Categorical variables
+- Classification
+- Confusion Matrix
+- Continuous variables
+- KNN - K-Nearest Neighbor
+- Linear regression
+- Logistic regression
+- Loss functions
+- Mean absolute error
+- Mean squared error
+- Odds / Odds Ratios
+- Regularization
+- ROC - Receiver operating characteristic
+- Root mean squared error
+- Sigmoid Function
+
+##Unit 3
+- ARIMA model - Autoregressive integrated moving average
+- Decision trees
+- Dimensional reduction
+- Document-based databases
+- LDA - latent dirichlet allocation
+- NLP - natural language processing
+- NLTK - natural language toolkit
+- Random forests
+- Relational databases
+- Rolling means
+- Tokenize
+- Topic models

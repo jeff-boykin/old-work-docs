@@ -5,21 +5,21 @@ Welcome to Data Science at General Assembly!
 We're all really excited that you're joining the General Assembly community. In order to ensure your success in the course, we’ve created a pre-work checklist that will take most students between 10-15 hours to complete. 
 
 Please complete these pre-work items before your first day so that both you and your computer will be prepared for class. In the meantime, feel free to reach out with any questions (or just to say hi)!
-* Instructor: (Name | Email)
-* TA's: (Names | Emails)
-* Expert-in-Residence: (Name | Email)
+* __Instructor__: (Name | Email)
+* __TA's__: (Names | Emails)
+* __Expert-in-Residence__: (Name | Email)
 
 ## Pre-Course Checklist
 Please complete the following by the first day of class. Feel free to shoot us an email with any questions:
 
 ### Schedule
 - [ ] Add the following information to your calendars:
-* Time: (Time)
-* Meeting days: (Days)
-* Start date: (Date)
-* End date: (Date)
-* Location: (Address)
-* Classroom: (Number)
+* **Time**: (Time)
+* **Meeting days**: (Days)
+* **Start date**: (Date)
+* **End date**: (Date)
+* **Location**: (Address)
+* **Classroom**: (Number)
 
 ### Introductions
 1. [ ] Fill out this [Student Profile Survey] in order for us to get to know you.
@@ -29,13 +29,13 @@ Please complete the following by the first day of class. Feel free to shoot us a
 1. [ ] Create a Github account, if you don't already have one.
 
 ### Installations
-Please follow the instructions below. If you have any problems, come to class ~30 min early on the first day and our TAs will help you get set up:
+Please follow the installation instructions below. If you have any problems, come to class ~30 min early on the first day and our TAs will help you get set up:
 
 1. [ ] Install Python
-    - Follow the installation instructions [from this link](https://www.python.org/downloads/) to install Python 2.7 on your computer. 
+    - Follow these [installation instructions to install Python 2.7](https://www.python.org/downloads/) on your computer. 
         - *Note: Make sure to install version 2.7, NOT Python 3. Currently, version 2.7 is the general industry standard.*
 2. [ ] Install Anaconda
-    - Follow the instructions [from this link](https://www.continuum.io/downloads) to download and install Anaconda, a popular set of Python tools used for data science.
+    - Follow [these instructions to download and install Anaconda](https://www.continuum.io/downloads), a popular set of Python tools used for data science.
         - If you get stuck, try reading the [documentation](http://docs.continuum.io/anaconda/install.html).
 3. [ ] Test for Successful Install
     - Test that Anaconda is installed correctly by opening a Terminal window and entering:

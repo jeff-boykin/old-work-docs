@@ -39,9 +39,10 @@ Please follow the installation instructions below. If you have any problems, com
         - If you get stuck, try reading the [documentation](http://docs.continuum.io/anaconda/install.html).
 3. [ ] Test for Successful Install
     - Test that Anaconda is installed correctly by opening a Terminal window and entering:
-    `ipython notebook`
 
-If successful, in a few moments, your browser should open to a window titled "Jupyter."
+        `ipython notebook`
+
+      If successful, in a few moments, your browser should open to a window titled "Jupyter."
 
 ### Start Practicing (Optional)
 Here are a few optional resources that will help introduce you to some commonly used syntax and tools. Feel free to work through them if needed.

@@ -50,7 +50,7 @@ Here are a few optional resources that will help introduce you to some commonly 
     - Bonus Option: Practice your Python by working through [Project Euler's computational problems](https://projecteuler.net).
 
 ### Additional Resources (Optional)
-While we won't be following any specific textbooks in this course, some students have asked for additional resources. Here are a few options, ranging from beginner to advanced:
+While we won't be following any specific textbooks in this course, some students have asked for additional resources. Here are a few suggested options:
 
   * [The Quick Python Book](http://www.amazon.com/Quick-Python-Book-Second-Edition/dp/193518220X)
   * [Data Analysis With Open Source Tools](http://www.amazon.com/Data-Analysis-Open-Source-Tools/dp/0596802358)

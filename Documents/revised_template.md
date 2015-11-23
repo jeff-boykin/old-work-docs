@@ -1,17 +1,18 @@
 
-LEARNING OBJECTIVES
-Objective
-Objective
-Objective
 
-INSTRUCTOR PREP
-Materials needed for class
-Prep work
+##LEARNING OBJECTIVES
+- Objective
+- Objective
+- Objective
 
-STUDENT PRE-WORK
+##INSTRUCTOR PREP
+- Materials needed for class
+- Prep work
+
+##STUDENT PRE-WORK
 Insert text here
 
-LESSON GUIDE
+##LESSON GUIDE
 TIMING
 TYPE
 TOPIC

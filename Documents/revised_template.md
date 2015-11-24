@@ -1,19 +1,21 @@
 # Title of the Lesson
 Week # | Lesson #
 
-##LEARNING OBJECTIVES
+---
+
+###LEARNING OBJECTIVES
 - Objective
 - Objective
 - Objective
 
-##INSTRUCTOR PREP
+###INSTRUCTOR PREP
 - Materials needed for class
 - Prep work
 
-##STUDENT PRE-WORK
+###STUDENT PRE-WORK
 - Insert text here
 
-##LESSON GUIDE
+###LESSON GUIDE
 | TIMING  | TYPE  | TOPIC  |
 |:-:|---|---|
 | 5 min  | Opening  | Topic description  |

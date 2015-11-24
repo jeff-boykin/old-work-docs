@@ -19,7 +19,7 @@ Week # | Lesson
 - Complete Prep work required
 - Prepare any specific instructions
 
-###LESSON GUIDE
+##LESSON GUIDE
 | TIMING  | TYPE  | TOPIC  |
 |:-:|---|---|
 | 5 min  | [Opening](#opening)  | Topic description  |
@@ -85,7 +85,7 @@ Here is a prompt for the deliverable.
 | **PREWORK**  | Reading Assignment: Examples  |
 | **PROJECT**  | Project Assignment: Title, Section [#](Instructions)  |
 
-##ADDITIONAL RESOURCES
+###ADDITIONAL RESOURCES
 - Add your own resources.
 - Go crazy.
 - So much room for bullets!

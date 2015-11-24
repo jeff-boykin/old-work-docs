@@ -27,7 +27,7 @@ Week # | Lesson #
 | 15 min  | [Demo](https://github.com/jeff-boykin/work-in-progress/blob/master/Documents/revised_template.md#demo-topic--mins)  | Topic description  |
 | 45 min  | [Guided Practice](https://github.com/jeff-boykin/work-in-progress/blob/master/Documents/revised_template.md#guided-practice-topic--mins)  | Topic description  |
 | 25 min  | [Independent Practice](https://github.com/jeff-boykin/work-in-progress/blob/master/Documents/revised_template.md#independent-practice-topic--minutes)  | Topic description  |
-| 10 min  | Conclusion  | Topic description  |
+| 10 min  | [Conclusion](https://github.com/jeff-boykin/work-in-progress/blob/master/Documents/revised_template.md#conclusion--mins)  | Topic description  |
 
 ---
 

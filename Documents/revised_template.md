@@ -1,4 +1,5 @@
-
+# Title of the Lesson
+Week # | Lesson #
 
 ##LEARNING OBJECTIVES
 - Objective
@@ -20,51 +21,57 @@
 | 15 min  | Demo  | Topic description  |
 | 45 min  | Guided Practice  | Topic description  |
 | 25 min  | Independent Practice  | Topic description  |
-| 10 min  | Review  | Topic description  |
+| 10 min  | Conclusion  | Topic description  |
 
+***
 
-###OPENING 10 mins
-- Include reference to last session
-- Review of exit ticket and or pre-work if applicable
-- Hook / Real-world Relevance
+### OPENING (# 10 mins)
+- Reference prior lesson content
+- Review pre-work or exit ticket, if applicable
+- Include Hook / Real-world Relevance
 
-  | Instructor Note:
+> Instructor Note: Use instructor notes to talk directly to instructors.
 
-Check:
+###INTRODUCTION: TOPIC (# mins)
+Discuss topic and explain by dividing parts into sections.
 
+#### Use non-section headings to divide content as needed
+Write out lesson directions and materials in a student-facing voice.
 
-###INTRODUCTION: TOPIC 10 mins
-Insert text here.
-Check:
-###DEMO: TOPIC 10 mins
-Insert text here.
-Check:
-###GUIDED PRACTICE: TOPIC 10 mins
-Insert text here.
-Check:
-###INDEPENDENT PRACTICE: TOPIC 10 mins
-Insert text here.
-Instructor Note:
-Check:
-###CONCLUSION 10 mins
-Insert text here.
+**Check:** Here is a question to see how well you understand the material
 
+### Demo: Topic (# mins)
+Walk students through a codealong or demonstration of something. 
 
+**Check:** Here you should write out or code your own methods
 
+### Guided Practice: Topic (# mins)
+Walk through solving a problem or applying this topic to a real world scenario. Solving or understanding this scenario should require the use of the current topic (in addition to any prior topics).
+
+**Check:** Were you able to solve the problem or complete the task?
+
+### Independent Practice: Topic (# minutes)
+Use the lesson topic/skill to create a deliverable that meets certain criteria. 
+
+> Instructor Note: This can be a pair programming activity or done indpendently.
+
+Here is a prompt for the deliverable. 
+
+**Check:** Were you able to create the desired deliverable?
+
+### Conclusion (# mins)
+- Review independent practice deliverables
+- Recap topic(s) covered in today's lesson
+- Cover homework and/or upcoming tasks
+
+***
 
 ##BEFORE NEXT CLASS
 |   |   |
 |---|---|
-| #####HOMEWORK  | Create Your Own Webpage! [#](Instructions)  |
-| #####PREWORK  | Reading: CSS and Layouts  |
-| #####PROJECT  | Slackbot [#](Instructions)  |
-
-Create Your Own Webpage! (Instructions)
-
-Reading: CSS and Layouts
-
-
-
+|**HOMEWORK**  | Create Your Own Webpage! [#](Instructions)  |
+| **PREWORK**  | Reading: CSS and Layouts  |
+| **PROJECT**  | Slackbot [#](Instructions)  |
 
 ##ADDITIONAL RESOURCES
 - Add your resources.

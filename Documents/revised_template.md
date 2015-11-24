@@ -1,19 +1,23 @@
 # Title of the Lesson
 Week # | Lesson #
 
----
-
 ###LEARNING OBJECTIVES
-- Objective
-- Objective
-- Objective
-
-###INSTRUCTOR PREP
-- Materials needed for class
-- Prep work
+*After this lesson, you will be able to:*
+- Describe some concept
+- Explain how to do something
+- Do or build something
 
 ###STUDENT PRE-WORK
-- Insert text here
+*Before this lesson, you should already be able to:*
+- Describe some concept
+- Explain how to do something
+- Do or build something
+
+###INSTRUCTOR PREP
+*Before this lesson, instructors will need to:*
+- Gather materials needed for class
+- Complete Prep work required
+- Prepare any specific instructions
 
 ###LESSON GUIDE
 | TIMING  | TYPE  | TOPIC  |
@@ -25,7 +29,7 @@ Week # | Lesson #
 | 25 min  | Independent Practice  | Topic description  |
 | 10 min  | Conclusion  | Topic description  |
 
-***
+---
 
 ### OPENING (# 10 mins)
 - Reference prior lesson content
@@ -43,12 +47,12 @@ Write out lesson directions and materials in a student-facing voice.
 **Check:** Here is a question to see how well you understand the material
 
 ### Demo: Topic (# mins)
-Walk students through a codealong or demonstration of something. 
+Walk through a codealong or demonstration of something. 
 
 **Check:** Here you should write out or code your own methods
 
 ### Guided Practice: Topic (# mins)
-Walk through solving a problem or applying this topic to a real world scenario. Solving or understanding this scenario should require the use of the current topic (in addition to any prior topics).
+Solve a problem or apply this topic to a real world scenario. Solving or understanding this scenario should require the use of the current topic (in addition to any prior topics).
 
 **Check:** Were you able to solve the problem or complete the task?
 

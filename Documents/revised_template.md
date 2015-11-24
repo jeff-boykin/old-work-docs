@@ -32,7 +32,7 @@ Week # | Lesson
 ---
 
 <a name="opening"></a>
-### OPENING (# 10 mins)
+### OPENING (# mins)
 - Reference prior lesson content
 - Review pre-work or exit ticket, if applicable
 - Include Hook / Real-world Relevance

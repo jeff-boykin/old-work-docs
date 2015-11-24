@@ -1,4 +1,4 @@
--># Title of the Lesson<-
+-> # Title of the Lesson <-
 ->Week # | Lesson #<-
 
 ###LEARNING OBJECTIVES

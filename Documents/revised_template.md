@@ -23,7 +23,7 @@ Week # | Lesson #
 | TIMING  | TYPE  | TOPIC  |
 |:-:|---|---|
 | 5 min  | [Opening](https://github.com/jeff-boykin/work-in-progress/blob/master/Documents/revised_template.md#opening--10-mins)  | Topic description  |
-| 10 min  | Introduction   | Topic description  |
+| 10 min  | [Introduction](https://github.com/jeff-boykin/work-in-progress/blob/master/Documents/revised_template.md#introduction-topic--mins)   | Topic description  |
 | 15 min  | Demo  | Topic description  |
 | 45 min  | Guided Practice  | Topic description  |
 | 25 min  | Independent Practice  | Topic description  |

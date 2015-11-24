@@ -1,5 +1,5 @@
--> # Title of the Lesson <-
-->Week # | Lesson #<-
+#Title of the Lesson
+Week # | Lesson
 
 ###LEARNING OBJECTIVES
 *After this lesson, you will be able to:*

@@ -75,12 +75,12 @@ Here is a prompt for the deliverable.
 ##BEFORE NEXT CLASS
 |   |   |
 |---|---|
-|**HOMEWORK**  | Create Your Own Webpage! [#](Instructions)  |
-| **PREWORK**  | Reading: CSS and Layouts  |
-| **PROJECT**  | Slackbot [#](Instructions)  |
+|**HOMEWORK**  | Example Assignment [#](Instructions)  |
+| **PREWORK**  | Reading Assignment: Examples  |
+| **PROJECT**  | Project Assignment: Title, Section [#](Instructions)  |
 
 ##ADDITIONAL RESOURCES
-- Add your resources.
+- Add your own resources.
 - Go crazy.
-- So much room for bullets.
+- So much room for bullets!
 

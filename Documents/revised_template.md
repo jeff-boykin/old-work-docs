@@ -81,7 +81,7 @@ Here is a prompt for the deliverable.
 ##BEFORE NEXT CLASS
 |   |   |
 |---|---|
-|**HOMEWORK**  | Example Assignment [#](Instructions)  |
+| **HOMEWORK** | Example Assignment [#](Instructions)  |
 | **PREWORK**  | Reading Assignment: Examples  |
 | **PROJECT**  | Project Assignment: Title, Section [#](Instructions)  |
 

@@ -39,7 +39,7 @@ Please complete the following by the first day of class. Feel free to shoot us a
 1. [ ] Create a Github account, if you don't already have one.
 
 <a name="install"></a>
-### Installations
+### Installation
 Please follow the installation instructions below. If your installation is not complete or if you have any problems, plan to arrive at least 30 minutes early to the first class so that our TAs' can help you get set up!
 
 1. [ ] Install [Python 2.7](https://www.python.org/downloads/)

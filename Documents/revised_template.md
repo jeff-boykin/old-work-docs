@@ -32,7 +32,7 @@ Week # | Lesson
 ---
 
 <a name="opening"></a>
-### OPENING (# mins)
+### Opening (# mins)
 - Reference prior lesson content
 - Review pre-work or exit ticket, if applicable
 - Include Hook / Real-world Relevance
@@ -40,7 +40,7 @@ Week # | Lesson
 > Instructor Note: Use instructor notes to talk directly to instructors.
 
 <a name="introduction"></a>
-###INTRODUCTION: TOPIC (# mins)
+###Introduction: Topic (# mins)
 Discuss topic and explain by dividing parts into sections.
 
 #### Use non-section headings to divide content as needed

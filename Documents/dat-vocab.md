@@ -2,10 +2,12 @@
 
 ##Unit 1
 - Box plots
+- Classification problem
 - Confidence intervals
 - Correlation
 - Historgrams
 - Line graph
+- Logistic Model
 - Mean
 - Median
 - Mode
@@ -14,8 +16,11 @@
 - Pandas
 - Quartile
 - Range
+- Reliable
+- Reproducible
 - Scatter matrix
 - Scatter plots
+- Secondary data
 - Standard deviation
 - Variance
 - Visualization

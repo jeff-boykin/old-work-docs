@@ -1,25 +1,25 @@
-#Title of the Lesson
+# Title of the Lesson
 Week # | Lesson
 
-###LEARNING OBJECTIVES
+### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
 - Describe some concept
 - Explain how to do something
 - Do or build something
 
-###STUDENT PRE-WORK
+### STUDENT PRE-WORK
 *Before this lesson, you should already be able to:*
 - Describe some concept
 - Explain how to do something
 - Do or build something
 
-###INSTRUCTOR PREP
+### INSTRUCTOR PREP
 *Before this lesson, instructors will need to:*
 - Gather materials needed for class
 - Complete Prep work required
 - Prepare any specific instructions
 
-##LESSON GUIDE
+## LESSON GUIDE
 | TIMING  | TYPE  | TOPIC  |
 |:-:|---|---|
 | 5 min  | [Opening](#opening)  | Topic description  |
@@ -40,7 +40,7 @@ Week # | Lesson
 > Instructor Note: Use instructor notes to talk directly to instructors.
 
 <a name="introduction"></a>
-###Introduction: Topic (# mins)
+### Introduction: Topic (# mins)
 Discuss topic and explain by dividing parts into sections.
 
 #### Use non-section headings to divide content as needed

@@ -11,7 +11,7 @@
 
 ### DELIVERABLES
 *Requirements and Constraints*
-- If applicable
+- (If applicable)
 
 #### 1. Insert Deliverable Title
 - Insert description of deliverable component

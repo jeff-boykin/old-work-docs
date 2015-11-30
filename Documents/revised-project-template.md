@@ -13,12 +13,16 @@ Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper
 **Goal:** Short one-two sentence blurb stating purpose of project.
 
 ### DELIVERABLES
-*Overall Requirements and Constraints*
-- (If applicable)
+*Overall Constraints*
+- If applicable!
 
 #### 1. Insert Deliverable Title
-- Insert description of deliverable component
-- Breakdown of deliverable
+- Short description of deliverable component
+- Breakdown of deliverable requirement:
+  - Your project is to make a thing that does something
+  - Your project should also do something else
+  - Your project must meet these expectations
+
 **Submission**:	 *Insert how the deliverable should be submitted.*
 
 
@@ -41,7 +45,7 @@ Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper
 ### Evaluation
 Your project will be evaluated by your instructors in the following areas using the rubric below.
 - Insert guiding question(s) (if applicable)
-- Insert link to rubric here
+- Link to rubric
 
 #### Bonus
 - Additional features for advanced students

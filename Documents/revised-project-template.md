@@ -7,7 +7,7 @@
 - Do or build something
 - Tell a story!
 
-**Goal:** 
+**Goal:** Short one-two sentence blurb stating purpose of project.
 
 ### DELIVERABLES
 *Requirements and Constraints*

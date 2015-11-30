@@ -11,17 +11,17 @@
 
 ### DELIVERABLES
 *Requirements and Constraints*
-- Describe some concept
+- If applicable
 
+#### 1. Insert Deliverable Title
+- Insert description of deliverable component
+- Breakdown of deliverable
+**Submission**:	 *Insert how the deliverable should be submitted.*
 
-Insert Deliverable Title
-Insert description text of deliverable. 
-Breakdown of deliverable
-
-Submission:	 Insert how the deliverable should be submitted.
+#### 2. Insert Next Deliverable Title
+- Iterate as needed.
 
 ### TIMELINE
-
 | Deadline  | Deliverable  | Description  |
 |:-:|---|---|
 | Week 1  | Deliverable  | Topic description  |
@@ -34,12 +34,15 @@ Submission:	 Insert how the deliverable should be submitted.
 
 ### Evaluation
 Your project will be evaluated by your instructors in the following areas using the rubric below.
-- Insert guiding question
-- Insert link to rubric
+- Insert guiding question(s) if applicable
+- Insert link to rubric here
 
 ### RESOURCES
-Materials, Starter Code, Optional Solution Code, Suggestions for Getting Started, Past Projects
-- Add your resources.
+####Materials / Starter Code (and Optional Solution Code) 
+- Add your own resources.
+- Be creative!
+
+####Suggestions for Getting Started / Past Projects
 - Go crazy.
 - So much room for bullets!
 

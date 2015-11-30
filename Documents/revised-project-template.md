@@ -1,15 +1,15 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
-Project # | Title
+# Project # | Title
 
-## PROMPT
+### PROMPT
 *Context / Directions:*
 - Explain the circumstances
 - Do or build something
 - Tell a story!
 
-Goal: 
+**Goal:** 
 
-## DELIVERABLES
+### DELIVERABLES
 *Requirements and Constraints*
 - Describe some concept
 
@@ -20,7 +20,7 @@ Breakdown of deliverable
 
 Submission:	 Insert how the deliverable should be submitted.
 
-## TIMELINE
+### TIMELINE
 
 | Deadline  | Deliverable  | Description  |
 |:-:|---|---|
@@ -32,12 +32,12 @@ Submission:	 Insert how the deliverable should be submitted.
 
 ---
 
-## Evaluation
+### Evaluation
 Your project will be evaluated by your instructors in the following areas using the rubric below.
 - Insert guiding question
 - Insert link to rubric
 
-## RESOURCES
+### RESOURCES
 Materials, Starter Code, Optional Solution Code, Suggestions for Getting Started, Past Projects
 - Add your resources.
 - Go crazy.

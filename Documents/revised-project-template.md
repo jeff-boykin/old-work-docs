@@ -14,7 +14,7 @@ Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper
 
 ### DELIVERABLES
 *Overall Constraints*
-- If applicable!
+- If applicable
 
 #### 1. Insert Deliverable Title
 - Short description of deliverable component

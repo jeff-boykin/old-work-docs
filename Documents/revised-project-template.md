@@ -44,8 +44,8 @@ Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper
 
 ### Evaluation
 Your project will be evaluated by your instructors in the following areas using the rubric below.
-- Insert guiding question(s) (if applicable)
-- Link to rubric
+- Insert guiding questions (if applicable)
+- [Link to rubric](#)
 
 #### Bonus
 - Additional features for advanced students

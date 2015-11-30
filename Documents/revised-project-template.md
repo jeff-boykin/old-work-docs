@@ -10,7 +10,7 @@
 **Goal:** Short one-two sentence blurb stating purpose of project.
 
 ### DELIVERABLES
-*Requirements and Constraints*
+*Overall Requirements and Constraints*
 - (If applicable)
 
 #### 1. Insert Deliverable Title
@@ -24,11 +24,11 @@
 ### TIMELINE
 | Deadline  | Deliverable  | Description  |
 |:-:|---|---|
-| Week 1  | Deliverable  | Topic description  |
-| Week 2  | Deliverable  | Topic description  |
-| Week 3  | Deliverable  | Topic description  |
-| Week 4  | Deliverable  | Topic description  |
-| Week 5  | Deliverable  | Topic description  |
+| Week 1  | Deliverable  | Brief project component description   |
+| Week 2  | Deliverable  | Brief project component description   |
+| Week 3  | Deliverable  | Brief project component description   |
+| Week 4  | Deliverable  | Brief project component description   |
+| Week 5  | Deliverable  | Brief project component description   |
 
 ---
 

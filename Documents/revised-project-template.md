@@ -1,7 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #: Project Title
 
 ### PROMPT
-*Context / Directions:*
+**Context / Directions:**
 - Explain the circumstances
 - Do or build something
 - Tell a story!
@@ -13,7 +13,7 @@ Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper
 **Goal:** Short one-two sentence blurb stating purpose of project.
 
 ### DELIVERABLES
-*Overall Constraints*
+**Overall Constraints**
 - If applicable
 
 #### 1. Insert Deliverable Title

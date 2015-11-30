@@ -49,7 +49,7 @@ Write out lesson directions and materials in a student-facing voice.
 **Check:** Here is a question to see how well students understand the material
 
 <a name="demo"></a>
-### Demo: Topic (# mins)
+### Demo / Codealong: Topic (# mins)
 Walk through a codealong or demonstration of something. 
 
 **Check:** By this point, students should be able to write out or code their own methods / functions / arguments / etc.

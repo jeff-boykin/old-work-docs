@@ -1,38 +1,40 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #: Project Title
 
-### PROMPT
+### Prompt
 **Context / Directions:**
-- Explain the circumstances
-- Do or build something
-- Tell a story!
+
+> Explain the circumstances around doing/building something. Tell a story!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis placeat distinctio nemo vitae natus quisquam atque nihil quis consequuntur harum officia, dolorem iusto soluta quae voluptas incidunt, similique, saepe sequi?
 
 Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.
 
-**Goal:** Short one-two sentence blurb stating purpose of project.
+Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.
+
+**Goal:** Short one-two sentence takeaway stating primary purpose of project.
+---
 
 ### DELIVERABLES
-**Overall Constraints**
-- If applicable
+**Project Requirements & Constraints**
 
-#### 1. Insert Deliverable Title
-- Short description of deliverable component
-- Breakdown of deliverable requirement:
+#### 1. Deliverable Title
+- Description: Briefly discuss deliverable component
+- Constraints: Explain any limitations, if applicable
+- Breakdown: Breakdown of deliverable requirements:
   - Your project is to make a thing that does something
   - Your project should also do something else
   - Your project must meet these expectations
 
-**Submission**:	 *Insert how the deliverable should be submitted.*
+**Submission**:	 *State how the deliverable should be submitted.*
 
 
 #### 2. Insert Next Deliverable Title
-- Iterate as needed.
+> Iterate as needed.
 
-
+---
 
 ### TIMELINE
-| Deadline  | Deliverable  | Description  |
+| Deadline | Deliverable| Description |
 |:-:|---|---|
 | Week 1  | Deliverable  | Brief project component description   |
 | Week 2  | Deliverable  | Brief project component description   |
@@ -43,25 +45,56 @@ Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper
 ---
 
 ### Evaluation
-Your project will be evaluated by your instructors in the following areas using the rubric below.
-- Insert guiding questions (if applicable)
-- [Link to rubric](#)
+**Guidelines & Rubric**
+Your project will be evaluated by your instructors in the following areas:
+- Guiding principle 1
+- Guiding principle 2
+- Guiding Principle 3
 
-#### Bonus
+**Rubric**: [Link to rubric](#)
+Based on the requirements, you can earn a maximum of _____ points on this project. 
+Your instructors will score each of your technical requirements using the scale below:
+
+    Score | Expectations
+    ----- | ------------
+    **0** | _Incomplete._
+    **1** | _Does not meet expectations._
+    **2** | _Meets expectations, good job!_
+    **3** | _Exceeds expectations, you wonderful creature, you!_
+
+
+### Bonus
+**Optional Tips for Maximum Impact**
 - Additional features for advanced students
 - Other suggestions for design or style points
 
+---
+
 ### RESOURCES
-#### Example Deliverables
-Here's a sample screenshot of what we expect you to make or do.
+**Examples & Suggestions for Getting Started**
+
+> Note: All components in this section are optional! Only include elements that are relevant to your project.
+
+#### Sample Deliverables
+Example 1: Here's a screenshot of what we expect you to make or do.
 ![Example Image](https://cloud.githubusercontent.com/assets/25366/8370438/dd651c2c-1b7c-11e5-8638-c99e2f6c7c61.png)
 
-#### Materials / Starter Code (and Optional Solution Code) 
-- Explain any material in the starter code folder (if applicable)
-- Describe other relevant project materials (if applicable)
+> Include additional screenshots as needed.
 
-#### Suggestions for Getting Started / Past Projects
-- Don't hesitate to do this to help brainstorm
+#### Materials / Starter Code 
+- Describe other relevant project materials *(if applicable)*
+- Explain any material in the starter code folder *(if applicable)*
+
+#### Links to Past Projects
+> Include if applicable
+
+#### Suggestions for Getting Started 
+- Do this to help brainstorm
 - Read the docs for this tool
-- Practice walking through your project's logic using this technique
+- Practice using this technique
 
+#### Useful Resources
+- Link to [something useful](http://www.w3schools.com/jsref/dom_obj_all.asp)
+- Extra relevant [resource for students](https://developer.mozilla.org/en-US/docs/Web/Events)
+
+---

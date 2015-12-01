@@ -2,7 +2,7 @@
 
 ### Prompt
 **Context / Directions:**
-> Explain the circumstances around doing/building something. Tell a story!
+> Explain the circumstances/ context / scenario requiring students to do/build a real world application. Tell a story!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis placeat distinctio nemo vitae natus quisquam atque nihil quis consequuntur harum officia, dolorem iusto soluta quae voluptas incidunt, similique, saepe sequi?
 
@@ -53,9 +53,7 @@ Your project will be evaluated by your instructors in the following areas:
 
 **Rubric**: [Link to rubric](#)
 
-Based on the requirements, you can earn a maximum of _____ points on this project.
-
-Your instructors will score each of your technical requirements using the scale below:
+Based on the requirements, you can earn a maximum of _____ points on this project. Your instructors will score each of your technical requirements using the scale below:
 
     Score | Expectations
     ----- | ------------
@@ -64,18 +62,17 @@ Your instructors will score each of your technical requirements using the scale 
     **2** | _Meets expectations, good job!_
     **3** | _Exceeds expectations, you wonderful creature, you!_
 
-
 ### Bonus
 **Optional Tips for Maximum Impact**
 - Additional features for advanced students
-- Other suggestions for design or style points
+- Other suggestions for design / style points
 
 ---
 
 ### RESOURCES
 **Examples & Suggestions for Getting Started**
 
-> Note: All components in this section are optional! Only include elements that are relevant to your project.
+> Note: All components in this section are optional; only include elements that are relevant to your project.
 
 #### Sample Deliverables
 Example 1: Here's a screenshot of what we expect you to make or do.
@@ -88,8 +85,8 @@ Example 1: Here's a screenshot of what we expect you to make or do.
 - Explain any material in the starter code folder *(if applicable)*
 
 #### Links to Past Projects
-- Prior student project 1
-- Prior student project 2
+- Prior example student project 1
+- Prior example student project 2
 
 #### Suggestions for Getting Started 
 - Do this to help brainstorm
@@ -97,7 +94,7 @@ Example 1: Here's a screenshot of what we expect you to make or do.
 - Practice using this technique
 
 #### Useful Resources
-- Link to [something useful](http://www.w3schools.com/jsref/dom_obj_all.asp)
-- Extra relevant [resource for students](https://developer.mozilla.org/en-US/docs/Web/Events)
+- Link to [something useful](#)
+- Extra relevant [resource for students](#)
 
 ---

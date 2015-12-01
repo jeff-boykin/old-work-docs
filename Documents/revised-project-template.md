@@ -49,6 +49,7 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
 **Guidelines & Rubric** 
 
 Your project will be evaluated by your instructors in the following areas:
+
 1. Guiding Principle
 2. Guiding Principle
 3. Guiding Principle

@@ -54,16 +54,7 @@ Your project will be evaluated by your instructors in the following areas:
 2. Guiding Principle
 3. Guiding Principle
 
-**Rubric**: [Link to rubric](#)
-
-Based on the requirements, you can earn a maximum of _____ points on this project. Your instructors will score each of your technical requirements using the scale below:
-
-    Score | Expectations
-    ----- | ------------
-    **0** | _Incomplete._
-    **1** | _Does not meet expectations._
-    **2** | _Meets expectations, good job!_
-    **3** | _Exceeds expectations, you wonderful creature, you!_
+**Rubric**: [Link to rubric](#). Based on the requirements, you can earn a maximum of _____ points on this project.
 
 #### Bonus
 - Additional features for advanced students

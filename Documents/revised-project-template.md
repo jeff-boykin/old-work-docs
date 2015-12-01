@@ -33,6 +33,8 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
 
 
 ### TIMELINE
+**Deadlines & Due Dates**
+
 | Deadline | Deliverable| Description |
 |:-:|---|---|
 | Week 1: Lesson/Date | Title  | Brief component description   |
@@ -47,9 +49,9 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
 **Guidelines & Rubric** 
 
 Your project will be evaluated by your instructors in the following areas:
-- Guiding principle 1
-- Guiding principle 2
-- Guiding Principle 3
+1. Guiding Principle
+2. Guiding Principle
+3. Guiding Principle
 
 **Rubric**: [Link to rubric](#)
 
@@ -62,15 +64,14 @@ Based on the requirements, you can earn a maximum of _____ points on this projec
     **2** | _Meets expectations, good job!_
     **3** | _Exceeds expectations, you wonderful creature, you!_
 
-### BONUS
-**Optional Tips for Maximum Impact**
+#### Bonus
 - Additional features for advanced students
 - Other suggestions for design / style points
 
 ---
 
 ### RESOURCES
-**Examples & Suggestions for Getting Started**
+**Examples & Suggestions**
 
 > Note: All components in this section are optional; only include elements that are relevant to your project.
 

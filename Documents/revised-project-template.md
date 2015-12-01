@@ -2,16 +2,16 @@
 
 ### Prompt
 **Context / Directions:**
-
 > Explain the circumstances around doing/building something. Tell a story!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis placeat distinctio nemo vitae natus quisquam atque nihil quis consequuntur harum officia, dolorem iusto soluta quae voluptas incidunt, similique, saepe sequi?
 
 Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.
 
-Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.
+Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc. 
 
-Goal: Short one-two sentence takeaway stating primary purpose of project.
+**Goal**: Short one-two sentence takeaway stating primary purpose of project.
+
 ---
 
 ### DELIVERABLES
@@ -31,7 +31,6 @@ Goal: Short one-two sentence takeaway stating primary purpose of project.
 #### 2. Insert Next Deliverable Title
 > Iterate as needed.
 
----
 
 ### TIMELINE
 | Deadline | Deliverable| Description |
@@ -45,7 +44,8 @@ Goal: Short one-two sentence takeaway stating primary purpose of project.
 ---
 
 ### Evaluation
-**Guidelines & Rubric**
+**Guidelines & Rubric** 
+
 Your project will be evaluated by your instructors in the following areas:
 - Guiding principle 1
 - Guiding principle 2

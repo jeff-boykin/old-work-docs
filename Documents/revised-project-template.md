@@ -11,7 +11,7 @@ Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper
 
 Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.
 
-**Goal:** Short one-two sentence takeaway stating primary purpose of project.
+Goal: Short one-two sentence takeaway stating primary purpose of project.
 ---
 
 ### DELIVERABLES

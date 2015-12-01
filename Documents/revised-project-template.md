@@ -52,7 +52,9 @@ Your project will be evaluated by your instructors in the following areas:
 - Guiding Principle 3
 
 **Rubric**: [Link to rubric](#)
-Based on the requirements, you can earn a maximum of _____ points on this project. 
+
+Based on the requirements, you can earn a maximum of _____ points on this project.
+
 Your instructors will score each of your technical requirements using the scale below:
 
     Score | Expectations
@@ -86,7 +88,8 @@ Example 1: Here's a screenshot of what we expect you to make or do.
 - Explain any material in the starter code folder *(if applicable)*
 
 #### Links to Past Projects
-> Include if applicable
+- Prior student project 1
+- Prior student project 2
 
 #### Suggestions for Getting Started 
 - Do this to help brainstorm

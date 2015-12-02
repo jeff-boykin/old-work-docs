@@ -17,7 +17,7 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
 ### DELIVERABLES
 **Project Requirements & Constraints**
 
-#### 1. Deliverable Title
+#### Deliverable Title
 **Breakdown:** Breakdown of deliverable requirements:
   - Your project is to make a thing that does something
   - Your project should also do something else
@@ -29,8 +29,7 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
   - Suggestions for design / style points
 
 
-#### 2. Insert Next Deliverable Title
-> Iterate as needed.
+> Iterate as needed with additional deliverables.
 
 
 ### TIMELINE

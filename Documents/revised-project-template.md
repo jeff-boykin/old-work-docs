@@ -25,7 +25,7 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
   - Your project should also do something else
   - Your project must meet these expectations
 
-**Submission**:	 *State how the deliverable should be submitted.*
+**Submission:**	 *State how the deliverable should be submitted.*
 
 
 #### 2. Insert Next Deliverable Title

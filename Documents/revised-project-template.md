@@ -18,10 +18,6 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
 **Project Requirements & Constraints**
 
 #### 1. Deliverable Title
-**Description:** Briefly discuss deliverable component
-
-**Constraints:** Explain any limitations, if applicable
-
 **Breakdown:** Breakdown of deliverable requirements:
   - Your project is to make a thing that does something
   - Your project should also do something else
@@ -29,9 +25,8 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
 
 **Submission:**	 State how the deliverable should be submitted.
 
-**Bonus**
-- Additional features for advanced students
-- Other suggestions for design / style points
+**Bonus:** Additional features for advanced students
+  - Suggestions for design / style points
 
 
 #### 2. Insert Next Deliverable Title
@@ -71,15 +66,15 @@ Based on the requirements, you can earn a maximum of _____ points on this projec
 
 > Note: All components in this section are optional; only include elements that are relevant to your project.
 
+#### Materials / Starter Code 
+- Describe other relevant project materials *(if applicable)*
+- Explain any material in the starter code folder *(if applicable)*
+
 #### Sample Deliverables
 Example 1: Here's a screenshot of what we expect you to make or do.
 ![Example Image](https://cloud.githubusercontent.com/assets/25366/8370438/dd651c2c-1b7c-11e5-8638-c99e2f6c7c61.png)
 
 > Include additional screenshots as needed.
-
-#### Materials / Starter Code 
-- Describe other relevant project materials *(if applicable)*
-- Explain any material in the starter code folder *(if applicable)*
 
 #### Links to Past Projects
 - Prior [example student project 1](#)

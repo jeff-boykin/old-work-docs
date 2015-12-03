@@ -18,13 +18,17 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
 **Project Requirements & Constraints**
 
 #### Deliverable Title
-- **Breakdown:**
+- **Requirements:**
   - Your project is to make a thing that does something
   - Your project should also do something else
   - Your project must meet these expectations
 
+- **Breakdown:**
+  - [ ] Element 1
+  - [ ] Element 2
+
 - **Submission:**	
-  - TBD by 
+  - TBD by instructor.
 
 - **Bonus:**
   - Suggestions for design / style points

@@ -32,7 +32,7 @@ Week # | Lesson #
 ---
 
 <a name="opening"></a>
-### Opening (# mins)
+## Opening (# mins)
 - Reference prior lesson content
 - Review pre-work or exit ticket, if applicable
 - Include Hook / Real-world Relevance
@@ -42,7 +42,7 @@ Week # | Lesson #
 ***
 
 <a name="introduction"></a>
-### Introduction: Topic (# mins)
+## Introduction: Topic (# mins)
 Discuss topic and explain by dividing parts into sections.
 
 #### Use non-section headings to divide content as needed
@@ -53,7 +53,7 @@ Write out lesson directions and materials in a student-facing voice.
 ***
 
 <a name="demo"></a>
-### Demo / Codealong: Topic (# mins)
+## Demo / Codealong: Topic (# mins)
 Walk through a codealong or demonstration of something. 
 
 **Check:** By this point, students should be able to write out or code their own methods / functions / arguments / etc.
@@ -61,7 +61,7 @@ Walk through a codealong or demonstration of something.
 ***
 
 <a name="guided-practice"></a>
-### Guided Practice: Topic (# mins)
+## Guided Practice: Topic (# mins)
 Solve a problem or apply this topic to a real world scenario. Solving or understanding this scenario should require the use of the current topic (in addition to any prior topics).
 
 **Check:** Were students able to solve the problem or complete the task?
@@ -69,7 +69,7 @@ Solve a problem or apply this topic to a real world scenario. Solving or underst
 ***
 
 <a name="ind-practice"></a>
-### Independent Practice: Topic (# minutes)
+## Independent Practice: Topic (# minutes)
 Use the lesson topic/skill to create a deliverable that meets certain criteria. 
 
 > Instructor Note: This can be a pair programming activity or done indpendently.
@@ -81,7 +81,7 @@ Here is a prompt for the deliverable.
 ***
 
 <a name="conclusion"></a>
-### Conclusion (# mins)
+## Conclusion (# mins)
 - Review independent practice deliverables
 - Recap topic(s) covered in today's lesson
 - Cover homework and/or upcoming tasks
@@ -91,9 +91,8 @@ Here is a prompt for the deliverable.
 ### BEFORE NEXT CLASS
 |   |   |
 |---|---|
-| **HOMEWORK** | Example Assignment [#](Instructions)  |
-| **PREWORK**  | Reading Assignment: Examples  |
-| **PROJECT**  | Project Assignment: Title, Section [#](Instructions)  |
+| **HOMEWORK** |[Example Assignment](#)  |
+| **UPCOMING PROJECTS**  |[Project: Title](#)  |
 
 ### ADDITIONAL RESOURCES
 - Add your own resources.

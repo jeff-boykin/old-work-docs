@@ -1,3 +1,11 @@
+---
+title: Title of the Lesson
+duration: "3:00"
+creator:
+    name: John Doe
+    city: NYC
+---
+
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Lesson Title
 Week # | Lesson #
 
@@ -33,22 +41,25 @@ Week # | Lesson #
 
 <a name="opening"></a>
 ## Opening (# mins)
-- Reference prior lesson content
-- Review pre-work or exit ticket, if applicable
-- Include Hook / Real-world Relevance
+- Review pre-work, projects, or exit ticket, if applicable
+- Review current lesson objectives
+- Reference general course content or topics (e.g. code or concepts that have been used across multiple lessons)
+- Include Hook / Real-world Relevance (why the content from this lesson is useful or important)
 
 > Instructor Note: Use instructor notes to talk directly to instructors. Otherwise, write out lesson directions and materials in a student-facing voice.
+
+Check: Ask students to define, explain, or recall any **general** prior concepts or tools.
 
 ***
 
 <a name="introduction"></a>
 ## Introduction: Topic (# mins)
-Discuss topic and explain by dividing parts into sections.
+Discuss topic and explain by dividing parts into sections. Ask students to define, explain, or recall any **specific** elements relating to the current topic, when applicable.
 
 #### Use non-section headings to divide content as needed
 Write out lesson directions and materials in a student-facing voice.
 
-**Check:** Here is a question to see how well students understand the material
+**Check:** Insert 1-2 guiding questions to ensure students are comprehending the material.
 
 ***
 

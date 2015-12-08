@@ -80,7 +80,7 @@ Solve a problem or apply this topic to a real world scenario. Solving or underst
 ***
 
 <a name="ind-practice"></a>
-## Independent Practice: Topic (# minutes)
+## Independent Practice: Topic (# mins)
 Use the lesson topic/skill to create a deliverable that meets certain criteria. 
 
 > Instructor Note: This can be a pair programming activity or done indpendently.

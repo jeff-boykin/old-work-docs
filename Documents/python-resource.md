@@ -1,4 +1,4 @@
-### Python Resource Guide
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Python Resource Guide
 
 Below are links to some recommended resources that past Data Science students have found helpful when learning Python. There is no single "best" resource; instead, you should try out a few and then focus on the one that teaches Python in a way that you understand.
 

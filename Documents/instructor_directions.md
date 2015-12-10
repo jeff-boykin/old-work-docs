@@ -3,7 +3,9 @@
 
 ### Student-Facing Repo Template
 
-This instructional guide is intended to help create a student-facing repository for your DS instance. Note: This is __not__ part of the official DS curriculum.  If you plan to use Schoology instead of GitHub, you can simply hit the "Download ZIP" button to the right and manually populate your Schoology instance with the files for each week.
+This instructional guide is intended to help create a student-facing repository for your DS instance. This is __not__ part of the official DS curriculum.
+
+> Note: If you plan to use Schoology instead of GitHub, you can simply hit the "Download ZIP" button to the right and manually populate your Schoology instance with the files for each week.
 
 For instructions on how to set up a student-facing GitHub repository for your DS class, please see below.
 

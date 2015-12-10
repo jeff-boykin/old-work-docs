@@ -18,7 +18,7 @@ In Data Science, we recommend using a student-facing repo to distribute project 
 > If they don't already have one, ask them to signup (it's free). 
 
 * [ ] **Basic Github Familiarity**: Here is a [useful tutorial](https://generalassembly.wistia.com/medias/jkrycndgrs) that will teach you how to create an account, install the Github desktop app, and start a repository.
-> If you run into any problems or need a refresher, [check out this guide](https://github.com/generalassembly-studio/FEWD_Curriculum/blob/master/Week_00_GitHub/Getting_Started_With_GitHub.pdf)
+> If you run into any problems or need a refresher, review FEWD materials or other online resources)
 
 ***
 

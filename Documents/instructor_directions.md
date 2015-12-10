@@ -9,15 +9,27 @@ For instructions on how to set up a student-facing GitHub repository for your DS
 
 ##Setting Up Your Student-Facing Repo
 
-In DAT, we will use a student-facing repo to distribute things like homework and project prompts, sample and solution code, slides and notes. The instructor or producer should create a student-facing repo for their course by following these steps:
+In Data Science, we recommend using a student-facing repo to distribute project prompts, sample and solution code, slides and notes. The instructor or producer should create a student-facing repo for their course by following these steps:
 
-* Before you get started, you'll need to know what your instructors' and TAs' GitHub usernames are. They should already have GitHub accounts but if they don't, they'll need to sign up for one. Instructor/TA onboarding is a great time to ask for their GitHub handles. 
 
-* If you've never used GitHub before, [watch this video](https://generalassembly.wistia.com/medias/jkrycndgrs) and follow all the steps. By the end of the video you should 1.) have a GitHub account; 2.) have installed and configured your GitHub for Mac/Windows desktop application; 3.) know how to create a new repository and add files to it. If you run into any problems or need a refresher, [check out this guide](https://github.com/generalassembly-studio/FEWD_Curriculum/blob/master/Week_00_GitHub/Getting_Started_With_GitHub.pdf), which covers the same material as the video.
+## Requirements
+* [ ] **Github Usernames**: Before you get started, you'll need to get usernames from instructors and TA's.
+> If they don't already have one, ask them to signup (it's free). 
 
-* Once you're comfortable with GitHub, create a new repo under the [ga-students org](https://github.com/ga-students) (if you don't have access to ga-students, please email [Zoe](mailto:zoes@generalassemb.ly), who can add you). Name your repo using the following convention: DS-City-Instance Number (i.e. "DS-NYC-3"). Make sure that you select "Private" in order to prevent your course materials from being publicly accessible.
+* [ ] **Basic Github Familiarity**: Here is a[useful tutorial](https://generalassembly.wistia.com/medias/jkrycndgrs) that will teach you how to create an account, install the Github desktop app, and start a repository.
+> If you run into any problems or need a refresher, [check out this guide](https://github.com/generalassembly-studio/FEWD_Curriculum/blob/master/Week_00_GitHub/Getting_Started_With_GitHub.pdf)
 
-* Press the "Download ZIP" button to the right. Download the .zip file to your computer. Open up the folder called "DS-Student-Facing-Repo-Template". Copy all of the files inside of this folder into your 'DS-City-Instance Number' folder (i.e. your local copy of the GitHub repo you just created). Complete the steps outlined in the video and guide to 1.) leave a commit message; 2.) commit and sync your changes; 3.) publish your changes. Your class repo should now be up on GitHub!
+
+## Instructions
+
+1. **Create a new repo.** Once you're familiar with Github, create a new repo under the [ga-students org](https://github.com/ga-students).
+> If you don't have access to "ga-students", please email [Zoe](mailto:zoes@generalassemb.ly). 
+
+2. Name your repo using the following convention: DS-City-Instance Number (i.e. "DS-NYC-3"). 
+3. Set your repo to "Private" in order to prevent your course materials from being publicly accessible. *Don't forget!*
+4. Press the "Download ZIP" button on the right. Download the .zip file to your computer. 
+
+5. Open up the folder called "DS-Student-Facing-Repo-Template". Copy all of the files inside of this folder into your 'DS-City-Instance Number' folder (i.e. your local copy of the GitHub repo you just created). Complete the steps outlined in the video and guide to 1.) leave a commit message; 2.) commit and sync your changes; 3.) publish your changes. Your class repo should now be up on GitHub!
 
 * You'll now need to give your instructors access to the repository by [creating a new team](https://github.com/orgs/ga-students/teams) and adding both the instructor and the TA to the team. Give your team the same name that you gave the repo above, plus the word "Instructors" (i.e. "DS-NYC-3 Instructors"). Then, under "Repositories," add the repo that you just created by searching for its name in the "Add repositories" field. Finally, press the "Settings" button on the left and select "Admin Access". This will allow your instructors to make changes to the repo.
 

@@ -1,5 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Refresh
-Student-Facing Repo Template
+
+
+### Student-Facing Repo Template
 
 This is a template for creating a student-facing repository for your DS instance. This is __not__ the DS curriculm.  If you plan to use Schoology instead of GitHub, you can simply hit the "Download ZIP" button to the right and manually populate your Schoology instance with the files for each week.
 

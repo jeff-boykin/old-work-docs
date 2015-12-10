@@ -25,7 +25,7 @@ In Data Science, we recommend using a student-facing repo to distribute project 
 ## Instructions
 
 1. **Create a new repo.** Once you're familiar with Github, create a new repo under the [ga-students org](https://github.com/ga-students).
-> If you don't have access to "ga-students", please email [Zoe](mailto:zoes@generalassemb.ly). 
+> If you don't have access to "ga-students", please email [Zoe](mailto:zoes@generalassemb.ly).
 
 2. Name your repo using the following convention: "DS-City-Instance Number" (i.e. "DS-NYC-3"). 
 3. Press the "Download ZIP" button on the right. Download and unzip the .zip file to your computer. 

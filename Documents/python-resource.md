@@ -35,7 +35,7 @@ Below are links to some recommended resources that past Data Science students ha
 
 
 
-[## SPOILER ALERT - DON'T REVIEW UNTIL YOU'VE COMPLETED THE SELF-ASSESSMENT]
+> ## SPOILER ALERT - DON'T REVIEW UNTIL YOU'VE COMPLETED THE SELF-ASSESSMENT
 
 
 

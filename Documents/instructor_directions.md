@@ -1,6 +1,5 @@
-![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
-
-##Data Science v2 - Student-Facing Repo Template
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Refresh
+Student-Facing Repo Template
 
 This is a template for creating a student-facing repository for your DAT instance. This is __not__ the DAT curriculm. [You can find the FEWD Curriculum here](https://github.com/generalassembly-studio/FEWD_Curriculum). If you plan to use Schoology instead of GitHub, you can simply hit the "Download ZIP" button to the right and manually populate your Schoology instance with the files for each week.
 

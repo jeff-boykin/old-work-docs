@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECT RUBRIC
-Name:								
-Project #: 	 	 	 						
+**Name:**							
+**Project #:**	 	 	 						
 
 Students will be assessed based on the following standards:
 					
@@ -9,6 +9,7 @@ Students will be assessed based on the following standards:
 - [ ] Standard 3
 - [ ] Standard 4
 - [ ] Professional Skills
+
 > ID Note: Fill these in with your course standards				
 
 Students will be assessed based on how well they have applied their data science skills. To review the full list of standards, see [the course syllabus](#).

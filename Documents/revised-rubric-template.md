@@ -1,37 +1,25 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECT RUBRIC
-**Name:**							
-**Project #:**	 	 	 						
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) RUBRIC
+Project # | Course	 	 						
 
-Your project will be assessed using the following standards:
+Your project will be assessed using the following course standards:
 					
 - [ ] Standard 1
 - [ ] Standard 2
-- [ ] Standard 3
 - [ ] Professional Development
 
 > ID Note: Fill these in with your course standards				
 
-Students will be assessed based on how well they have applied their data science skills. To review the full list of standards, see [the course syllabus](#).
+This assessment is based on how well you've applied specific principles of the data science workflow, as discussed below. To review the full list of standards, see the course syllabus.
 
 ---
 
 ## STANDARD #1
-Meets Expectation: Description of Standard. This blurb is a fully written out description of an acceptable deliverable that “meets expectations”. The deliverable should be assessed based on the learning goals in the rubric below:
+Meets Expectations: Acceptable performance for this standard includes the following learning goals: Description of Standard. Your performance will be assessed based on the criteria in the rubric below:
 
-**Performance Evaluation** (mark boxes with X):
+> This blurb is a written out description of what deliverable component “meets expectations” for this standard. The deliverable should be assessed based on the learning goals in the rubric below:
 
-| Learning Goals | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
-|---|---|---|---|---|
-| Learning Goal #1 | | | | |
-| Learning Goal #2 | | | | |
-| Learning Goal #3 | | | | |
-
-Notes:
-
-## STANDARD #2
-Meets Expectation: Description of Standard. This blurb is a fully written out description of an acceptable deliverable that “meets expectations”. The deliverable should be assessed based on the learning goals in the rubric below:
-
-**Performance Evaluation** (mark boxes with X):
+#### Performance Evaluation
+> Mark boxes with 'X'
 
 | Learning Goals | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
 |---|---|---|---|---|
@@ -41,23 +29,12 @@ Meets Expectation: Description of Standard. This blurb is a fully written out de
 
 Notes:
 
-## STANDARD #3
-Meets Expectation: Description of Standard. This blurb is a fully written out description of an acceptable deliverable that “meets expectations”. The deliverable should be assessed based on the learning goals in the rubric below:
-
-**Performance Evaluation** (mark boxes with X):
-
-| Learning Goals | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
-|---|---|---|---|---|
-| Learning Goal #1 | | | | |
-| Learning Goal #2 | | | | |
-| Learning Goal #3 | | | | |
-
-Notes:
 
 ## PROFESSIONAL SKILLS
-Meets Expectation: Demonstrates ability to communicate and collaborate with others in the classroom and/or on a team. You treat your peers, teammates, instructors with respect, make and follow agreements, and maintain a growth mindset. Your performance will be assessed based on the criteria in the rubric below:
+Meets Expectations: Demonstrates ability to communicate and collaborate with others in the classroom and/or on a team. You treat your peers, teammates, instructors with respect, make and follow agreements, and maintain a growth mindset. Your performance will be assessed based on the criteria in the rubric below:
 
-**Performance Evaluation** (mark boxes with X):
+#### Performance Evaluation
+> Mark boxes with 'X'
 
 | Criteria | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
 |---|---|---|---|---|

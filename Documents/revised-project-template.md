@@ -82,7 +82,7 @@ While your total score may serve as a helpful gauge of whether you've met projec
 - Describe other relevant project materials *(if applicable)*
 - Explain any material in the starter code folder *(if applicable)*
 
-#### Suggestions for Getting Started
+#### Suggestions for Getting Started / Specific Tips
 - Do this to help brainstorm
 - Read the docs for this tool
 - Practice using this technique

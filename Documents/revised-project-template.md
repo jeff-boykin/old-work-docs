@@ -61,7 +61,7 @@ Your project will assessed using the following standards:
 
 #### Rubric: [Link to rubric](#). 
 
-Based on the requirements, you can earn a maximum of _____ points on this project. Your instructors will score each of your standards using the scale below:
+Based on the requirements, you can earn a maximum of  **#**  points on this project. Your instructors will score each of your standards using the scale below:
 
     Score | Expectations
     ----- | ------------
@@ -70,7 +70,7 @@ Based on the requirements, you can earn a maximum of _____ points on this projec
     **2** | _Meets expectations, good job!_
     **3** | _Exceeds expectations, you wonderful creature, you!_
 
-While your total score may serve as a helpful gauge of whether you met project goals,  __specific standards scores are more important__ since they can show you where to focus your efforts in the future!
+While your total score may serve as a helpful gauge of whether you've met project goals,  __specific standards scores are more important__ since they can show you where to focus your efforts in the future!
 
 ---
 
@@ -78,16 +78,16 @@ While your total score may serve as a helpful gauge of whether you met project g
 
 > Note: All components in this section are optional; only include elements that are relevant to your project.
 
-#### Materials / Starter Code 
+#### Materials / Starter Code / Dataset
 - Describe other relevant project materials *(if applicable)*
 - Explain any material in the starter code folder *(if applicable)*
 
-#### Suggestions for Getting Started 
+#### Suggestions for Getting Started
 - Do this to help brainstorm
 - Read the docs for this tool
 - Practice using this technique
 
-#### Past Projects
+#### Past Projects / Sample Deliverables
 - Prior [example student project 1](#)
 - Prior [example student project 2](#)
 

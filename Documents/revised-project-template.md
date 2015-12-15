@@ -1,4 +1,5 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #: Project Title
+<div><h1 style="display:inline-block;"># Project #: Project Title </h1>
+<img style="display:inline-block;" src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" ></div> 
 
 ## PROMPT
 > Explain the circumstances/ context / scenario requiring students to do/build a real world application. Tell a story!
@@ -25,7 +26,7 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
   - [ ] Element 1
   - [ ] Element 2
 
-> Optional: Include if details are required. Screenshots of desired outputs would go in this section.
+> Optional: Include if further details are required. Example: Screenshots of desired outputs would go in this section.
 
 - **Bonus:**
   - Suggestions for design / style points
@@ -69,7 +70,7 @@ Based on the requirements, you can earn a maximum of _____ points on this projec
     **2** | _Meets expectations, good job!_
     **3** | _Exceeds expectations, you wonderful creature, you!_
 
-While your total score may serve as a helpful gauge of whether you met project goals, your __specific standard scores are more important__ since they can help you identify where to focus your efforts in the future!
+While your total score may serve as a helpful gauge of whether you met project goals,  __specific standards scores are more important__ since they can show you where to focus your efforts in the future!
 
 ---
 
@@ -86,10 +87,7 @@ While your total score may serve as a helpful gauge of whether you met project g
 - Read the docs for this tool
 - Practice using this technique
 
-#### Sample Deliverables
-- ![Example Image 1](https://cloud.githubusercontent.com/assets/25366/8370438/dd651c2c-1b7c-11e5-8638-c99e2f6c7c61.png)
 
-> Include additional screenshots as needed.
 
 #### Past Projects
 - Prior [example student project 1](#)

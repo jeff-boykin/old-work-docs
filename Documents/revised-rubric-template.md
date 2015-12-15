@@ -2,12 +2,12 @@
 **Name:**							
 **Project #:**	 	 	 						
 
-Students will be assessed based on the following standards:
+Your project will be assessed using the following standards:
 					
 - [ ] Standard 1
 - [ ] Standard 2
 - [ ] Standard 3
-- [ ] Professional Skills
+- [ ] Professional Development
 
 > ID Note: Fill these in with your course standards				
 
@@ -77,22 +77,4 @@ Notes:
 |WHAT’S GOING WELL?|STRUGGLES|DEVELOPMENT PLAN|
 |---|---|---|
 | | | |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

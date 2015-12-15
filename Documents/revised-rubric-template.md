@@ -9,14 +9,14 @@ Your project will be assessed using the following course standards:
 
 > ID Note: Fill these in with your course standards				
 
-This assessment is based on how well you've applied specific principles of the data science workflow, as discussed below. To review the full list of standards, see the course syllabus.
+This assessment is based on how well you've applied specific principles of the data science workflow within your deliverable. To review the full list of standards, see the course syllabus.
 
 ---
 
 ## STANDARD #1
-Meets Expectations: Acceptable performance for this standard includes the following learning goals: Description of Standard. Your performance will be assessed based on the criteria in the rubric below:
+Meets Expectations: Acceptable performance for this standard includes the following learning goals: Description of Standards. Your performance will be assessed based on the criteria in the rubric below:
 
-> This blurb is a written out description of what deliverable component “meets expectations” for this standard. The deliverable should be assessed based on the learning goals in the rubric below:
+> "Description of Standards" is a written out description of what “meets expectations” for the standard associated with this deliverable.
 
 #### Performance Evaluation
 > Mark boxes with 'X'

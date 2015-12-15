@@ -70,7 +70,7 @@ Based on the requirements, you can earn a maximum of  **#**  points on this proj
     **2** | _Meets expectations, good job!_
     **3** | _Exceeds expectations, you wonderful creature, you!_
 
-While your total score may serve as a helpful gauge of whether you've met project goals,  __specific standards scores are more important__ since they can show you where to focus your efforts in the future!
+While your total score may serve as a helpful gauge of whether you've met project goals, __specific standards scores are more important__ since they can show you where to focus your efforts in the future!
 
 ---
 

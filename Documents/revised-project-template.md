@@ -1,4 +1,4 @@
-<h1 style="display:inline-block;">Project #: Project Title </h1><img style="display:inline-block;" src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" > 
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECT #: TITLE
 
 ## PROMPT
 > Explain the circumstances/ context / scenario requiring students to do/build a real world application. Tell a story!

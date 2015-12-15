@@ -25,7 +25,7 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
   - [ ] Element 1
   - [ ] Element 2
 
-> Optional: Include if further details are required. Example: Screenshots of desired outputs would go in this section.
+> Optional: Include if further details are required. Screenshots of desired outputs would go in this section.
 
 - **Bonus:**
   - Suggestions for design / style points
@@ -35,6 +35,7 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
 
 > Iterate as needed with additional deliverables.
 
+---
 
 ## TIMELINE
 > Optional: include for multi-part projects
@@ -85,8 +86,6 @@ While your total score may serve as a helpful gauge of whether you met project g
 - Do this to help brainstorm
 - Read the docs for this tool
 - Practice using this technique
-
-
 
 #### Past Projects
 - Prior [example student project 1](#)

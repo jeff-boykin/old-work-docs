@@ -1,5 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) RUBRIC
-Project # | Course	 	 						
+**Project # | Course**	 	 						
 
 Your project will be assessed using the following course standards:
 					

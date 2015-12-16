@@ -13,8 +13,8 @@ This assessment is based on how well you've applied specific principles of the [
 
 ---
 
-## [STANDARD #1]
-Meets Expectations: Acceptable performance for this standard is based on the following learning goals. Did you: [X? Y? Z?]
+## STANDARD #1
+Meets Expectations: Acceptable performance for this standard is based on the following learning goals. Did you: X? Y? Z?
 
 > - Fill in X/Y/Z with 2-3 learning goals. What should the student be able to demonstrate, identify, articulate, or do as part of this standard? I.e. Demonstrate comprehension of data science fundamentals? Define a valid sampling methodology?
 

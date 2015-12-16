@@ -33,7 +33,9 @@ Performance will be assessed based on the criteria in the rubric below:
 
 Notes:
 
+
 --- 
+
 
 > The following section is only intended for mid-course and final projects.
 

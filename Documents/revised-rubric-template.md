@@ -16,7 +16,7 @@ This assessment is based on how well you've applied specific goals of the [stand
 ## STANDARD #1
 **Meets Expectations**: Acceptable performance for this standard is based on the following learning goals. Do you: X? Y? Z?
 
-> - Fill in X/Y/Z with 2-3 learning goals. What should the student be able to demonstrate, identify, articulate, or do as part of this standard? I.e. Demonstrate comprehension of data science fundamentals? Define a valid sampling methodology?
+> - SME Note: Fill these in X/Y/Z with 2-3 learning goals. What should the student be able to demonstrate, identify, articulate, or do as part of this standard? I.e. Demonstrate comprehension of data science fundamentals? Define a valid sampling methodology?
 
 Application of these learning goals will be assessed using the requirements below:
 
@@ -29,7 +29,7 @@ Application of these learning goals will be assessed using the requirements belo
 | Specific Requirement #2 | | | | |
 | Specific Requirement #3 | | | | |
 
-> Requirements should be tied to or organized by learning goal. I.e. "Data Science Fundamentals: Create a data dictionary with variable classification"
+> ID Note: Requirements should be tied to or organized by learning goal. I.e. "Data Science Fundamentals: Create a data dictionary with variable classification"
 
 Notes:
 
@@ -37,7 +37,7 @@ Notes:
 --- 
 
 
-> The following section is only intended for mid-course and final projects.
+> ID Note: The following section is only intended for mid-course and final projects.
 
 ## PROFESSIONAL SKILLS
 Meets Expectations: Demonstrates ability to communicate and collaborate with others in the classroom and/or on a team. You treat your peers, teammates, instructors with respect, make and follow agreements, and maintain a growth mindset. Your performance will be assessed based on the criteria in the rubric below:

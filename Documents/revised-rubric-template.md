@@ -5,7 +5,7 @@ Your project will be assessed using the following course standards:
 					
 - [ ] Standard 1
 - [ ] Standard 2
-- [ ] Professional Development [optional: use at mid/end of course]
+- [ ] Professional Development [*optional: use at mid/end of course*]
 
 > ID Note: Fill these in with your course standards				
 
@@ -14,10 +14,9 @@ This assessment is based on how well you've applied specific principles of the [
 ---
 
 ## [STANDARD #1]
-Meets Expectations: Acceptable performance for this standard is based on the following learning goals. Did you: X? Y? Z?
+Meets Expectations: Acceptable performance for this standard is based on the following learning goals. Did you: [X? Y? Z?]
 
-> - Fill in X/Y/Z with 2-3 learning goals. What should the student be able to demonstrate, identify, articulate, or do as part of this standard?
-> I.e. Demonstrate comprehension of data science fundamentals? Define a valid sampling methodology?
+> - Fill in X/Y/Z with 2-3 learning goals. What should the student be able to demonstrate, identify, articulate, or do as part of this standard? I.e. Demonstrate comprehension of data science fundamentals? Define a valid sampling methodology?
 
 Performance will be assessed based on the criteria in the rubric below:
 
@@ -30,8 +29,7 @@ Performance will be assessed based on the criteria in the rubric below:
 | Goal: Specific Requirement #2 | | | | |
 | Goal: Specific Requirement #3 | | | | |
 
-> Requirements should be tied to or organized by learning goal.
-> I.e. "Data Science Fundamentals: Create a data dictionary with variable classification"
+> Requirements should be tied to or organized by learning goal. I.e. "Data Science Fundamentals: Create a data dictionary with variable classification"
 
 Notes:
 

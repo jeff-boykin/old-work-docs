@@ -34,8 +34,8 @@ Application of these learning goals will be assessed using the requirements belo
 Notes:
 
 
---- 
-
+Based on the requirements, you can earn a maximum of  **#**  points on this project. Your total score is: **#**
+---
 
 > ID Note: The following section is only intended for mid-course and final projects.
 

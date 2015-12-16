@@ -1,7 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) TITLE
 **Project # | Due Date**
 
-## PROMPT
+### PROMPT
 > Explain the circumstances/ context / scenario requiring students to do/build a real world application. Tell a story!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis placeat distinctio nemo vitae natus quisquam atque nihil quis consequuntur harum officia, dolorem iusto soluta quae voluptas incidunt, similique, saepe sequi?
@@ -14,7 +14,7 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
 
 ---
 
-## DELIVERABLES
+### DELIVERABLES
 
 #### Title
 - **Requirements/Contraints:**
@@ -38,7 +38,7 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
 
 ---
 
-## TIMELINE
+### TIMELINE
 > Optional: include for multi-part projects
 
 | Deadline | Deliverable| Description |
@@ -51,7 +51,7 @@ Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit ame
 
 ---
 
-## EVALUATION
+### EVALUATION
 
 Your project will assessed using the following course standards:
 
@@ -75,7 +75,7 @@ While your total score may serve as a helpful gauge of whether you've met projec
 
 ---
 
-## RESOURCES
+### RESOURCES
 
 > Note: All components in this section are optional; only include elements that are relevant to your project.
 

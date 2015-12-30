@@ -5,11 +5,10 @@
 [Course Info](http://www.galvanize.com/courses/data-science-2/#.VoQKGTa9qu4)
 
 Admissions: Take Home Assignment (?) + Two Technical Interviews 
-[Sample Take Home Assignment](https://docs.google.com/document/d/1GI3oVas8yswhqPk_8-VIANHR1uJ6R19HNhl7GiH9vq4/pub)
-Interview 1. Proficiency with programming in Python
-Interview 2. Probability, statistics, experiment design, and basic modeling
-Personas: We look for students who are familiar with data analysis tools and practices and a background in a quantitative disciplines like foundational statistics, probability, linear algebra, or mathematics.
-
+1. [Sample Take Home Assignment](https://docs.google.com/document/d/1GI3oVas8yswhqPk_8-VIANHR1uJ6R19HNhl7GiH9vq4/pub)
+2. 1st Interview: Proficiency with programming in Python
+3. 2nd Interview: Probability, statistics, experiment design, and basic modeling
+4. Personas: "We look for students who are familiar with data analysis tools and practices and a background in a quantitative disciplines like foundational statistics, probability, linear algebra, or mathematics."
 
 **Pre-Work:** ?
 

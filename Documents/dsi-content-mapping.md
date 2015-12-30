@@ -33,7 +33,7 @@ Website: [Course Info](http://www.galvanize.com/courses/data-science-2/#.VoQKGTa
 - Weeks 9-10 - *Capstone Projects*
 - Week 12 - *Onsite Interviews*
 
-
+___
 
 ### Metis:
 Website: [Course Info](http://www.thisismetis.com/data-science)

@@ -4,7 +4,8 @@
 ### Galvanize:
 [Course Info](http://www.galvanize.com/courses/data-science-2/#.VoQKGTa9qu4)
 
-Admissions: Take Home Assignment (?) + Two Technical Interviews 
+**Admissions:** Take Home Assignment (?) + Two Technical Interviews 
+
 1. [Sample Take Home Assignment](https://docs.google.com/document/d/1GI3oVas8yswhqPk_8-VIANHR1uJ6R19HNhl7GiH9vq4/pub)
 2. 1st Interview: Proficiency with programming in Python
 3. 2nd Interview: Probability, statistics, experiment design, and basic modeling
@@ -31,7 +32,7 @@ Admissions: Take Home Assignment (?) + Two Technical Interviews
 ### Metis:
 [Course Info](http://www.thisismetis.com/data-science)
 
-Admissions:
+**Admissions:** ?
 
 **Pre-Work:**
 - initial software setup
@@ -44,11 +45,26 @@ Admissions:
 **Structure:** 5 Projects
 Data science projects can be divided into useful dimensions. A dimension can be thought of as a facet along which a decision must be made to specify a project implementation. The bootcamp considers the dimensions of **domain, design, data, algorithms, tools, and communication**. Each Unit covers certain content from several domains, which are reinforced in that Unit's project.
 
-- [ ] Project 1 - Context = MTA dataset to guide marketing street teams. Provided w datasets for exploratory data analysis and plotting. Small groups.
-- [ ] Project 2 - Context = Movie industry predictions. Topic = Guided scraping w machine learning prediction via regression models. Individual work.
-- [ ] Project 3 - Context = Insurance industry. Topic = supervised learning algorithms, relational databases, classification models. D3 visualization & Python Flask API framework (serve data to support visuals). Small groups.
-- [ ] Project 4 - No context given. Topic = Unsupervised learning / NLP algorithms, NoSQL databases, API data collection. Individual work; few constraints.
+- [ ] Project 1 - 
+  - Context = MTA dataset to guide marketing street teams. 
+  - Provided w datasets for exploratory data analysis and plotting. 
+  - Small groups.
+- [ ] Project 2 - 
+  - Context = Movie industry predictions. 
+  - Topic = Guided scraping w machine learning prediction via regression models. 
+  - Individual work.
+- [ ] Project 3 - 
+  - Context = Insurance industry. 
+  - Topic = supervised learning algorithms, relational databases, classification models. D3 visualization & Python Flask API framework (serve data to support visuals). 
+  - Small groups.
+- [ ] Project 4 - 
+  - No context given. 
+  - Topic = Unsupervised learning / NLP algorithms, NoSQL databases, API data collection. 
+  - Individual work; few constraints.
 - [ ] Project 5 - 
+  - Context
+  - Topic
+  - Workflow
 
 **Schedule:**
 - Week 1 - Introduction to Data Science Toolkit

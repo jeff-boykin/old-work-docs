@@ -1,5 +1,11 @@
 # Data Science Immersive - Curriculum Comparison
 
+### Contents
+1. Galvanize
+2. Metis
+3. 
+
+---
 
 ## Galvanize:
 [Course Info](http://www.galvanize.com/courses/data-science-2/#.VoQKGTa9qu4)

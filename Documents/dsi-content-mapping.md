@@ -8,7 +8,7 @@
 ---
 
 ## Galvanize:
-[Course Info](http://www.galvanize.com/courses/data-science-2/#.VoQKGTa9qu4)
+Website: [Course Info](http://www.galvanize.com/courses/data-science-2/#.VoQKGTa9qu4)
 
 **Admissions:** Take Home Assignment (?) + Two Technical Interviews 
 
@@ -36,7 +36,7 @@
 
 
 ### Metis:
-[Course Info](http://www.thisismetis.com/data-science)
+Website: [Course Info](http://www.thisismetis.com/data-science)
 
 **Admissions:** ?
 

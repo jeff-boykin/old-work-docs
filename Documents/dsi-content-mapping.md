@@ -35,7 +35,7 @@ Website: [Course Info](http://www.galvanize.com/courses/data-science-2/#.VoQKGTa
 
 ___
 
-### Metis:
+## Metis:
 Website: [Course Info](http://www.thisismetis.com/data-science)
 
 **Admissions:** ?

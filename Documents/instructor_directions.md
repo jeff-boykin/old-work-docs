@@ -10,23 +10,22 @@ This guide is intended to help create a student-facing repository for your DS in
 
 NOTE: Instructors should **also** create a local instance of the official instructor-facing curriculum for their own use.
 
----
-
 For instructions on how to set up a student-facing GitHub repository for your DS class, please see below.
 > __IMPORTANT: Once you are done setting up your repo, please delete or overwrite the contents of this Readme!__
+
+---
+
+## Requirements
+* [ ] **Github Usernames**: Before you get started, you'll need to have usernames from all relevant instructors and TA's.
+> If they don't already have one, ask them to signup (it's free). 
+
+* [ ] **Basic Github Familiarity**: Here is a [useful tutorial](https://generalassembly.wistia.com/medias/jkrycndgrs) that will teach you how to create an account, install the Github desktop app, and start a repository.
+
+***
 
 ## Setting Up Your Student-Facing Repo
 
 In Data Science, we recommend using a student-facing repo to distribute project prompts/rubrics, starter/sample code, and course resources. The instructor should create a student-facing repo for their course by following these steps:
-
-***
-
-## Requirements
-* [ ] **Github Usernames**: Before you get started, you'll need to get usernames from all relevant instructors and TA's.
-> If they don't already have one, ask them to signup (it's free). 
-
-* [ ] **Basic Github Familiarity**: Here is a [useful tutorial](https://generalassembly.wistia.com/medias/jkrycndgrs) that will teach you how to create an account, install the Github desktop app, and start a repository.
-> If you run into any problems or need a refresher, review FEWD materials or other online resources)
 
 ***
 

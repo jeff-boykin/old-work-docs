@@ -37,14 +37,12 @@ In Data Science, we recommend using a student-facing repo to distribute project 
 2. Name your repo using the following convention: "DS-City-Instance Number" (i.e. "DS-NYC-3"). 
 3. Press the "Download ZIP" button on the right. Download and unzip the .zip file to your computer. 
 4. This folder is the local copy of your "DS-City-Instance" repo.
-
-- [ ] **Checkpoint**: You should now have a blank "DS-City-Instance Number" folder, ready to be filled with class content!
+ **Checkpoint**: You should now have a blank "DS-City-Instance Number" folder, ready to be filled with class content!
 
 5. Next, go back to github and navigate over to the "DS-Student-Facing-Repo."
 6. Once again, press the "Download ZIP" button on the right. Download and unzip.
 7. Copy all of the contents from your downloaded "DS-Student-Facing-Repo" folder into your "DS-City-Instance Number" folder.
-
-- [ ] **Checkpoint**: Your local "DS-City-Instance Number" folder should now contain all the class materials from the student-facing repo. Next you'll need to publish it!
+ **Checkpoint**: Your local "DS-City-Instance Number" folder should now contain all the class materials from the student-facing repo. Next you'll need to publish it!
 
 8. Complete the steps outlined in the Github familiarity video from step 1 to push your changes online. You should:
  * [ ] Initialize Git within your "DS-City-Instance" local repo using the Github desktop app or Terminal.

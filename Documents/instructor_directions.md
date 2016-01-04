@@ -1,15 +1,19 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Refresh
 
 
-### Student-Facing Repo Template
+### Repo Guide
 
-This instructional guide is intended to help create a student-facing repository for your DS instance. This is __not__ part of the official DS curriculum.
+This guide is intended to help create a student-facing repository for your DS instance. This is __not__ the DS instructor curriculum; these are the student-facing materials. These include:
+- Lab Startercode & Datasets
+- Project Prompts & Rubrics
+- Student Resources
 
-> Note: If you plan to use Schoology instead of GitHub, you can simply hit the "Download ZIP" button to the right and manually populate your Schoology instance with the files for each week.
+NOTE: Instructors should **also** create a local instance of the official instructor-facing curriculum for their own use.
+
+---
 
 For instructions on how to set up a student-facing GitHub repository for your DS class, please see below.
-
-> __IMPORTANT: Once you are done setting up your student-facing repo, either delete or overwrite the contents of this Readme file before distributing to students!__
+> __IMPORTANT: Once you are done setting up your repo, please delete or overwrite the contents of this Readme!__
 
 ## Setting Up Your Student-Facing Repo
 

@@ -16,7 +16,7 @@ For instructions on how to set up a student-facing GitHub repository for your DS
 ---
 
 ## Requirements
-* [ ] **Github Usernames**: Before you get started, you'll need to have usernames from all relevant instructors and TA's.
+* [ ] **Github Usernames**: Before you get started, you should have a list of usernames for all relevant instructors, TA's, and students.
 > If they don't already have one, ask them to signup (it's free). 
 
 * [ ] **Basic Github Familiarity**: Here is a [useful tutorial](https://generalassembly.wistia.com/medias/jkrycndgrs) that will teach you how to create an account, install the Github desktop app, and start a repository.

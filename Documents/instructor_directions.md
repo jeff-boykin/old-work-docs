@@ -13,7 +13,7 @@ For instructions on how to set up a student-facing GitHub repository for your DS
 
 ## Setting Up Your Student-Facing Repo
 
-In Data Science, we recommend using a student-facing repo to distribute project prompts, sample and solution code, slides and notes. The instructor or producer should create a student-facing repo for their course by following these steps:
+In Data Science, we recommend using a student-facing repo to distribute project prompts/rubrics, starter/sample code, and course resources. The instructor should create a student-facing repo for their course by following these steps:
 
 ***
 
@@ -28,7 +28,7 @@ In Data Science, we recommend using a student-facing repo to distribute project 
 
 ## Instructions
 
-1. **Create a new repo.** Once you're familiar with Github, create a new repo under the [ga-students org](https://github.com/ga-students).
+1. **Create a new repo.** Create a new repo under the [ga-students org](https://github.com/ga-students).
  > If you don't have access to "ga-students", please email [Zoe](mailto:zoes@generalassemb.ly).
 
 2. Name your repo using the following convention: "DS-City-Instance Number" (i.e. "DS-NYC-3"). 
@@ -53,12 +53,12 @@ In Data Science, we recommend using a student-facing repo to distribute project 
 
  **Checkpoint**: Your "DS-City-Instance" repo should now be live on GitHub, filled with all of the student facing content!
 
-9. Now that you're ready to go, make sure to give all instructors and TA's access to the repository. To do this: 
+9. Now that you're ready to go, make sure all instructors and TA's have access to the repository. To do this: 
  * [ ] [Create a new team](https://github.com/orgs/ga-students/teams).
  * [ ] Give your team the same name as your repo + the word "Instructors" (i.e. "DS-NYC-3 Instructors"). 
  * [ ] Under "Repositories," add your DS-City-Instance repo by searching for its name in the "Add repositories" field.
  * [ ] Press the "Settings" button on the left and select "Admin Access" so that your instructors can make changes as needed.
- * [ ] Add all instructors and TAs to the team.
+ * [ ] Add instructors and TAs to the team.
 
 10. Your team members will automatically recieve an email notification from Github letting them know they've been given access to your repo. You can also send them the link if needed:
  * [ ] Navigate to [https://github.com/ga-students](https://github.com/ga-students) in your web browser
@@ -92,7 +92,6 @@ In Data Science, we recommend using a student-facing repo to distribute project 
 ***
 
 ## Additional Resources
-- There are some great instructions on using the Github desktop app as part of [FEWD's GitHub lesson](https://github.com/generalassembly-studio/FEWD_Curriculum/tree/master/Week_00_GitHub). 
 - Github has a ton of online resources, and the Desktop app comes with a sample tutorial.
 - Both Codecademy and Codeschool offer free Git/Github related walkthroughs.
 

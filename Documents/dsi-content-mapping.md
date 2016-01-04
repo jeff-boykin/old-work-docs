@@ -89,14 +89,22 @@ Data science projects can be divided into useful dimensions. A dimension can be 
   - Goals: Master basic tools & modeling; complete Project 2, practice communications.
 
 - Week 4 - *Databases and Introduction to Machine Learning Concepts*
-  - Topics: 
-  - Tools:
-  - Goals:
+  - Topics: Supervised learning techniques (decision trees / random forests). Survey classification techniques (logistic regression, K-nearest neighbors). Practice SQL. 
+  - Tools: MySQL
+  - Goals: Begin design & feasibility evaluation for Project 3. 
+
 
 - Week 5 - *Machine Learning, Supervised Learning Techniques, Naive Bayes Algorithm*
   - Topics:
   - Tools:
   - Goals:
+  
+Students dig into more details and more algorithms for supervised learning including SVM, decision trees and random forests; techniques for feature selection and feature extraction; and concepts and applications for deep learning. Students choose to apply one or more of these algorithms as part of this Unit’s project.
+
+• Connect regression modeling to the broader family of machine learning techniques
+• Use supervised learning on Project 3; work in groups simulating in-house data science teams
+• Refine models with feature selection and feature extraction
+• Evaluate the efficacy and computational feasibility of various ML algorithms in different contexts
 
 - Week 6 - *JavaScript and D3*
   - Topics:

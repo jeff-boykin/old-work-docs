@@ -123,3 +123,23 @@ Students dig into more details and more algorithms for supervised learning inclu
 
 - Week 9-12 - Full-time final project work & presentation prep. 
   - Optional courses in cloud computing, system architecture, feasibility evaluations.
+
+---
+
+Sliderule Data Science Intensive
+
+--- 
+
+Udacity - Data Analyst Nanodegree
+
+--- 
+
+Thinkful - Data/Python
+
+---
+
+DataQuest (monthly)
+DataSchool (SME side hustle)
+Coursera - 2-3 courses
+edX - 1-2 courses
+Treehouse - ?

@@ -138,6 +138,20 @@ Thinkful - Data/Python
 
 ---
 
+Iron Yard
+
+---
+
+Code School's "Explore Data Science" Site
+
+1. Foundations
+2. Describe
+3. Discover
+4. Predict
+5. Advise
+6. Scale
+
+
 DataQuest (monthly)
 DataSchool (SME side hustle)
 Coursera - 2-3 courses

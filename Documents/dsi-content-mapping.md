@@ -3,7 +3,7 @@
 ### Contents
 1. Galvanize
 2. Metis
-3. 
+3. Misc: Iron Yard, Thinkful, etc
 
 ---
 

@@ -124,21 +124,36 @@ Students dig into more details and more algorithms for supervised learning inclu
 - Week 9-12 - Full-time final project work & presentation prep. 
   - Optional courses in cloud computing, system architecture, feasibility evaluations.
 
----
-
-Sliderule Data Science Intensive
-
---- 
-
-Udacity - Data Analyst Nanodegree
-
 --- 
 
 Thinkful - Data/Python
 
+Python, git, SQLite
+
 ---
 
 Iron Yard
+
+A. Computational Thinking - built-in data structures, control flow, functions, and classes
+Tools: terminal, IDE
+
+B. IDE, Version Control, Data Presentation
+Tools: Git / Github, IPython Notebook, Atom, PyCharm, IPython, and/or Trinket
+
+C. Programming Fundamentals - coding + automated test
+Tools: pdb, unittest, nose, pytest, mock
+
+D. Statistical Analysis - DOM manipulation, language extension and AJAX integration
+Tools: jQuery, Underscore, Lodash, Babel
+
+E. Front End Tools - HTML, CSS, and JavaScript
+Tools: Bootstrap, SASS, Bourbon/Neat, jQuery, D3
+
+F. Simulations - estimation, plots, analysis
+Tools: NumPy, MatPlotLib, Seaborn
+
+G. Client-Side Frameworks - MVC (Model-View-Controller), enterprise development
+Tools: Backbone, Angular, Ember, React
 
 ---
 
@@ -151,6 +166,15 @@ Code School's "Explore Data Science" Site
 5. Advise
 6. Scale
 
+---
+
+Sliderule Data Science Intensive
+
+--- 
+
+Udacity - Data Analyst Nanodegree
+
+---
 
 DataQuest (monthly)
 DataSchool (SME side hustle)

@@ -68,9 +68,9 @@ Data science projects can be divided into useful dimensions. A dimension can be 
   - Topic = Unsupervised learning / NLP algorithms, NoSQL databases, API data collection. 
   - Individual work; few constraints.
 - [ ] **Project 5** - 
-  - Context
-  - Topic
-  - Workflow
+  - No context given. 
+  -  Topic = Open-ended based on student interest.
+  - Individual work; few constraints. Need to present results professionally.
 
 **Schedule:**
 - Week 1 - *Introduction to Data Science Toolkit*

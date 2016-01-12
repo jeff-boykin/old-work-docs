@@ -121,7 +121,7 @@ Students dig into more details and more algorithms for supervised learning inclu
   - Tools:
   - Goals:
 
-- Week 9-12 - Full-time final project work & presentation prep. 
+- Weeks 9-12 - Full-time final project work & presentation prep. 
   - Optional courses in cloud computing, system architecture, feasibility evaluations.
 
 --- 

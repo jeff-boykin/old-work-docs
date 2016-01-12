@@ -93,36 +93,31 @@ Data science projects can be divided into useful dimensions. A dimension can be 
   - Tools: MySQL
   - Goals: Begin design & feasibility evaluation for Project 3. 
 
-
 - Week 5 - *Machine Learning, Supervised Learning Techniques, Naive Bayes Algorithm*
-  - Topics:
-  - Tools:
-  - Goals:
-  
-Students dig into more details and more algorithms for supervised learning including SVM, decision trees and random forests; techniques for feature selection and feature extraction; and concepts and applications for deep learning. Students choose to apply one or more of these algorithms as part of this Unit’s project.
-
-• Connect regression modeling to the broader family of machine learning techniques
-• Use supervised learning on Project 3; work in groups simulating in-house data science teams
-• Refine models with feature selection and feature extraction
-• Evaluate the efficacy and computational feasibility of various ML algorithms in different contexts
+  - Topics: Supervised learning algorithms including SVM, decision trees / random forests, feature selection & extraction, & regression modeling.
+  - Tools: Machine Learning algorithms
+  - Goals: Form groups for Project 3 work, choose Project algorithm, refine model.
 
 - Week 6 - *JavaScript and D3*
-  - Topics:
-  - Tools:
-  - Goals:
+  - Topics: Fundamentals of JS, visual design & interactive communication, 
+  - Tools: JS, D3, JQuery, Bootstrap
+  - Goals: Visualize & communicate Project 3 results
 
 - Week 7 - *APIs, Data Collection Methods, NoSQL Storage, WebApps with Flask*
-  - Topics:
-  - Tools:
-  - Goals:
+  - Topics: Database selection, acquiring text data via APIs, parsing store data in SQL & NoSQL databases vs flat files, merging datasets (data munging)
+  - Tools: NoSQL, MongoDB, APIs
+  - Goals: Design & propose initial data collection for Project 4.
 
 - Week 8 - *Natural Language Processing (NLP)*
-  - Topics:
-  - Tools:
-  - Goals:
+  - Topics: Unsupervised learning techniques - hierarchical clustering, K-means, KD-trees, topic models, Hadoop ecosystem uses & benefits
+  - Tools: NLTK, TextBlob, DBSCAN, Hadoop & cloud serviers, MapReduce
+  - Goals: Analyze text data, navigate data science stack, complete & present Project 4 via lightening talks
 
 - Weeks 9-12 - Full-time final project work & presentation prep. 
-  - Optional courses in cloud computing, system architecture, feasibility evaluations.
+  - Topics: cloud computing, system architecture, feasibility evaluations. Portfolio visualizations & presentation..
+  - Tools: any / all
+  - Goals: Prepare for Project 5
+    -  use design process to isolate problem, evaluate computational feasibility, choose data sources, design system architecture, apply analytical procedures for modeling, develop data visualization to communicate results, prepare presentation
 
 --- 
 

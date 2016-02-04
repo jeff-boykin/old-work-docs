@@ -5,34 +5,14 @@ Welcome to Data Science at General Assembly!
 We're all really excited that you're joining the General Assembly community. In order to ensure your success in the course, we’ve created a pre-work checklist that will take most students between 10-15 hours to complete. 
 
 Please complete these pre-work items before your first day so that both you and your computer will be prepared for class. In the meantime, feel free to reach out with any questions (or just to say hi)!
-* __Instructor__: (Name | Email)
-* __TA's__: (Names | Emails)
-* __Expert-in-Residence__: (Name | Email)
 
 ## Pre-Course Checklist
 Please complete the following by the first day of class. Feel free to shoot us an email with any questions:
 
-1. [Schedule](#schedule) 
-2. [Introductions](#intro)
-3. [Accounts](#account)
-4. [Install](#install)
-5. [Practice](#practice)
-6. [Resources](#resources)
-
-<a name="schedule"></a>
-### Schedule
-- [ ] Add the following information to your calendars:
-* **Time**: (Time)
-* **Meeting days**: (Days)
-* **Start date**: (Date)
-* **End date**: (Date)
-* **Location**: (Address)
-* **Classroom**: (Number)
-
-<a name="intro"></a>
-### Introductions
-1. [ ] Fill out this [Student Profile Survey] in order for us to get to know you.
-2. [ ] Complete this [Preliminary Skills Survey] in order to help us place you in complementary groups.
+1. [Accounts](#account)
+2. [Install](#install)
+3. [Practice](#practice)
+4. [Resources](#resources)
 
 <a name="account"></a>
 ### Accounts
@@ -68,3 +48,20 @@ Consider the following reading recommendations. These are not required but may h
   * [The Quick Python Book](http://www.amazon.com/Quick-Python-Book-Second-Edition/dp/193518220X)
   * [Data Analysis With Open Source Tools](http://www.amazon.com/Data-Analysis-Open-Source-Tools/dp/0596802358)
   * [Python for Data Analysis](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793)
+
+
+---
+DRAFT FROM DC
+
+1. **Command Line Interface (CLI)**: If you're a complete beginner, [start here](http://go.toutapp.com/caba00b72428549af2). If you want to flesh out your skills, [go here](http://go.toutapp.com/dbdc25261d4f4496f0).
+
+2. **Python**: If you're new to Python, start with this [free 13-hour short course on Codecademy](https://www.codecademy.com/learn/python). If you want to flesh out your skills, go through the free online book [Learn Python The Hard Way](http://learnpythonthehardway.org/book/).
+
+3. **Python + Data**: You will use the pandas library a lot during this course, therefore we strongly recommended you learn the basics before starting!
+        - To understand what pandas is used for, [watch this 10-minute video](https://vimeo.com/59324550).
+        - If you're entirely new to Python and tools like the IPython Notebook, I'd recommend [Python for Data Analysis by Wes McKinney](http://go.toutapp.com/de3ee8f0262f3f5765) (he actually *wrote* the pandas library). It starts from zero knowledge, introduces you to Python and the various tools of the trade, including numpy and pandas. It will leave you well prepared not just for the practical aspects of this course, but for actually doing data science in general!
+        - If you're reasonably comfortable with Python, perhaps skip the book and jump straight into the [tutorial lessons here](http://go.toutapp.com/b8135737c710760fa0). This page also contains additional resources for advanced use cases.
+
+4. **Stats**: Learn about statistical significance, confidence intervals, chi-square tests, Bayes' Theorem, and much more are in [Think Stats](http://go.toutapp.com/9e4c03d393653b9b07), a free book that uses real-world examples written in Python!
+
+5. **Podcasts**: There is a plethora of excellent podcasts about data science. Learn about k-means while you clean, or about random walks on a random walk! [Data Skeptic](http://go.toutapp.com/823e867723e58f68c2) and [Linear Digressions](https://www.udacity.com/podcasts/linear-digressions) are two of our favourites.

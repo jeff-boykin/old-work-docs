@@ -1,3 +1,15 @@
+1. What Prework is Needed for DSI?
+2. How will it be administered and assessed?
+3. Content Ideas:
+
+Automated Assessment
+- Basic Python:
+	- Writing Functions
+	- Syntax: datatypes, 
+- Stat Familiarity
+
+4. Format Ideas:
+
 # Getting Started with Data Science
 
 Welcome to Data Science at General Assembly!

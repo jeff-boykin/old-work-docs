@@ -59,9 +59,9 @@ DRAFT FROM DC
 
 3. **Python + Data**: You will use the pandas library a lot during this course, therefore we strongly recommended you learn the basics before starting!
 
-        - To understand what pandas is used for, [watch this 10-minute video](https://vimeo.com/59324550).
-        - If you're entirely new to Python and tools like the IPython Notebook, I'd recommend [Python for Data Analysis by Wes McKinney](http://go.toutapp.com/de3ee8f0262f3f5765) (he actually *wrote* the pandas library). It starts from zero knowledge, introduces you to Python and the various tools of the trade, including numpy and pandas. It will leave you well prepared not just for the practical aspects of this course, but for actually doing data science in general!
-        - If you're reasonably comfortable with Python, perhaps skip the book and jump straight into the [tutorial lessons here](http://go.toutapp.com/b8135737c710760fa0). This page also contains additional resources for advanced use cases.
+ - To understand what pandas is used for, [watch this 10-minute video](https://vimeo.com/59324550).
+ - If you're entirely new to Python and tools like the IPython Notebook, I'd recommend [Python for Data Analysis by Wes McKinney](http://go.toutapp.com/de3ee8f0262f3f5765) (he actually *wrote* the pandas library). It starts from zero knowledge, introduces you to Python and the various tools of the trade, including numpy and pandas. It will leave you well prepared not just for the practical aspects of this course, but for actually doing data science in general!
+ - If you're reasonably comfortable with Python, perhaps skip the book and jump straight into the [tutorial lessons here](http://go.toutapp.com/b8135737c710760fa0). This page also contains additional resources for advanced use cases.
 
 4. **Stats**: Learn about statistical significance, confidence intervals, chi-square tests, Bayes' Theorem, and much more are in [Think Stats](http://go.toutapp.com/9e4c03d393653b9b07), a free book that uses real-world examples written in Python!
 

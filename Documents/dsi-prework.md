@@ -58,6 +58,7 @@ DRAFT FROM DC
 2. **Python**: If you're new to Python, start with this [free 13-hour short course on Codecademy](https://www.codecademy.com/learn/python). If you want to flesh out your skills, go through the free online book [Learn Python The Hard Way](http://learnpythonthehardway.org/book/).
 
 3. **Python + Data**: You will use the pandas library a lot during this course, therefore we strongly recommended you learn the basics before starting!
+
         - To understand what pandas is used for, [watch this 10-minute video](https://vimeo.com/59324550).
         - If you're entirely new to Python and tools like the IPython Notebook, I'd recommend [Python for Data Analysis by Wes McKinney](http://go.toutapp.com/de3ee8f0262f3f5765) (he actually *wrote* the pandas library). It starts from zero knowledge, introduces you to Python and the various tools of the trade, including numpy and pandas. It will leave you well prepared not just for the practical aspects of this course, but for actually doing data science in general!
         - If you're reasonably comfortable with Python, perhaps skip the book and jump straight into the [tutorial lessons here](http://go.toutapp.com/b8135737c710760fa0). This page also contains additional resources for advanced use cases.

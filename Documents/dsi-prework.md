@@ -1,10 +1,11 @@
 ## PREWORK IDEAS
-Week -4: Learn Stats! [Khan Academy](https://www.khanacademy.org/math/probability). Assessment Task = X
-Week -3: Learn Your OS! [Codecademy](https://www.codecademy.com/learn/learn-the-command-line). Assessment Task = X
-Week -2: Learn Python! [LPTHW](http://learnpythonthehardway.org/book/). Assessment Task = X
-Week -1: Learn some [Git](https://www.codecademy.com/learn/learn-git)/[SQL!](https://www.codecademy.com/learn/sql-analyzing-business-metrics) Codecademy. Assessment Task = X 
-Week 0 (A few days before Day 0): Get Excited About Data Science! Materials (one sheet w/ links & further reading)
-Day 0: INSTALL-FEST
+
+- Week -4: Learn Stats! [Khan Academy](https://www.khanacademy.org/math/probability). Assessment Task = X
+- Week -3: Learn Your OS! [Codecademy](https://www.codecademy.com/learn/learn-the-command-line). Assessment Task = X
+- Week -2: Learn Python! [LPTHW](http://learnpythonthehardway.org/book/). Assessment Task = X
+- Week -1: Learn some [Git](https://www.codecademy.com/learn/learn-git)/[SQL!](https://www.codecademy.com/learn/sql-analyzing-business-metrics) Codecademy. Assessment Task = X 
+- Week 0 (A few days before Day 0): Get Excited About Data Science! Materials (one sheet w/ links & further reading)
+- Day 0: INSTALL-FEST
 
 ---
 

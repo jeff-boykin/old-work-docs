@@ -25,13 +25,13 @@
 2. Write programs that utilize the different data types
   - Describe the concept of a "data type" and how it relates to variables
   - Identify and define variable with the following data types: int, float, string, boolean, list, and dictionary
-  - Write code that uses conditional statements to control the flow of a program
+  - Write code that uses conditional statements
   - Declare, assign to, and manipulate data stored in a variable
   - Iterate over and and manipulate values in an array
 
 3. Write functions that accepts a parameter and solves a problem
   - Describe how parameters and arguments relate to functions
-  - Create and call a function that accepts parameters to solve a problem
+  - Create a function that accepts parameters to solve a problem
   - Return a value from a function using the return keyword
   - Define and call functions 
 
@@ -65,8 +65,7 @@ Admissions needs to do more to reset expectations
 Python 2.7
 Anacondas (see list of incompatible operating systems)
 Check for ability to run: matplotlib, seaborne, numpy, scipy, sklearn, etc. 
-
-Create an ipython notebook that runs all the plugins and have the students run it as a CHECK to see if everything is installed correctly.
+  - Create an ipython notebook that runs all the plugins and have the students run it as a CHECK to see if everything is installed correctly.
 
 **Prework**
 * Checking for statistical / math familiarity:
@@ -94,3 +93,5 @@ Unit 2:
 
 
 IDEA: More review sessions 
+
+

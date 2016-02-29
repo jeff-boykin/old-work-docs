@@ -95,3 +95,12 @@ Unit 2:
 IDEA: More review sessions 
 
 
+---
+
+30 pre-work assessment questions; starter & solution code:
+- 20 multiple choice/fill-in-blank q's for DSI Pre-work, as Google Form, with answers defined
+- 5 q's for DSI admissions, as Markdown, with answer key
+- 5 short answer/code submission q's for DSI instructor hiring, as Markdown or iPython Notebook, with answer key
+
+Drafts due 3/7
+Revisions, if needed, due 3/11

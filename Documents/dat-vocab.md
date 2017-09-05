@@ -1,6 +1,6 @@
-#Data Science Vocabulary List
+# Sample Data Science Vocabulary List
 
-##Unit 1
+## Unit 1
 - Box plots
 - Classification problem
 - Confidence intervals
@@ -25,7 +25,7 @@
 - Variance
 - Visualization
 
-##Unit 2
+## Unit 2
 - AOC - Area over the curve
 - Bias
 - Categorical variables
@@ -44,7 +44,7 @@
 - Root mean squared error
 - Sigmoid Function
 
-##Unit 3
+## Unit 3
 - ARIMA model - Autoregressive integrated moving average
 - Decision trees
 - Dimensional reduction
